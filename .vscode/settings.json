@@ -1,0 +1,8 @@
+{
+  "java.project.sourcePaths": ["MovieRate/src"],
+  "java.project.outputPath": "MovieRate/bin",
+  "java.project.referencedLibraries": [
+    "MovieRate/lib/**/*.jar",
+    "c:\\Users\\ZETTA\\Downloads\\mysql-connector-j-8.3.0.jar"
+  ]
+}
